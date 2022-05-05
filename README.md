@@ -1,3 +1,3 @@
 # project3-chess
 Vanessa Le
-2D array of ChessPieces
+completed on May 3 at 11:48pm
