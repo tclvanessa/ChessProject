@@ -1,3 +1,2 @@
-# project3-chess
-Vanessa Le
-completed on May 3 at 11:48pm
+# Chess Project
+Created a chess game that lets the player input their desired moves into the txt files.
