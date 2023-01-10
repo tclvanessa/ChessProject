@@ -1,2 +1,2 @@
 # Chess Project
-Created a chess game that lets the player input their desired moves into the txt files.
+For this project, I recreated a chess game that allows the player to input their desired moves into txt files.
